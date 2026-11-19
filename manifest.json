@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "yandexcloud",
+  "binary": "yandexcloud-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via Yandex Cloud - DNS.",
+  "display_name_key": "plugin.yandexcloud-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "yandexcloud-dns",
+  "provider_aliases": [
+    "yandexcloud"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}

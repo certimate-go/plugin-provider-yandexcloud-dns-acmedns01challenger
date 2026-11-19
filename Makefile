@@ -1,0 +1,6 @@
+PROVIDER_DIR := $(CURDIR)
+PLUGINS_DIR ?= ../plugins
+
+.PHONY: dev
+dev:
+	$(MAKE) -C "$(PLUGINS_DIR)" dev PROVIDER_DIR="$(PROVIDER_DIR)"

@@ -1,0 +1,4 @@
+{
+  "plugin.yandexcloud-dns.name": "Yandex Cloud - DNS",
+  "plugin.yandexcloud-dns.description": "通过 Yandex Cloud - DNS 完成 ACME DNS-01 验证。"
+}

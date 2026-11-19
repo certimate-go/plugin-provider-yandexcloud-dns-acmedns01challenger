@@ -1,0 +1,4 @@
+{
+  "plugin.yandexcloud-dns.name": "Yandex Cloud - DNS",
+  "plugin.yandexcloud-dns.description": "ACME DNS-01 via Yandex Cloud - DNS."
+}
